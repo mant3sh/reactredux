@@ -10,7 +10,6 @@ export const selectedProduct=(product)=>{
     return {
         type:actionsTypes.SELECTED_PRODUCT,
         playload:product,
-
     };
 }
 export const removeSelectedProduct=()=>{
