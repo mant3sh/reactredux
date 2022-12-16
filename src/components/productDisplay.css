@@ -1,0 +1,4 @@
+.product_image {
+    object-fit: contain;
+    margin-inline: auto;
+}
